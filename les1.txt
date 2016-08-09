@@ -1,0 +1,39 @@
+FC helped to find the errors much faster
+It took the files side-by-side
+and showed the user the differences between the two
+
+Version controls helps you to become 
+a better programmer, because it lets you
+compare and try out different ways of problem solving
+
+What do you think are the pros and cons 
+of manually choosing when to create a commit, like you do in Git, 
+vs having versions automatically saved, like Google Docs does?
+
+Pros: You can generate less clutter, if automatic, there is an
+chance that the code wont compile
+
+Cons: What if you forget!?
+
+Why do you think some version control systems, 
+like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+
+Because in programming, integrations between different files
+is vital for the program to run properly
+
+How can you use the commands git log and 
+git diff to view the history of files?
+
+Git log gives you overview of all the commits made with
+their unique IDs and comments. Git diff shows clear differences between
+two commits.
+
+How might using version control make you more confident 
+to make changes that could break something?
+
+Because everything is easily revertable!
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+For an android project!
