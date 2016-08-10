@@ -8,16 +8,28 @@ It's an intermediate level, where the changes to be commited are depicted. A lim
 
 What value do you think it offers?
 
+You can divide changes into different commits, thats what.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+See previous answer.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+I.e for experimental additions.
+
 How do the diagrams help you visualize the branch structure?
+
+They help to see parent status of different commits.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+It creates one unitary commit.
+
 What are the pros and cons of Git?€™s automatic merging vs. always doing merges
 manually?
+
+Pros: less time rewriting code. Cons: cannot see simple logical differences like a person could
